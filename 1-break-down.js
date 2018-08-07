@@ -1,3 +1,5 @@
+//ideal for PythonTutor
+
 let input = 'lumo'
 let expected = 'dee'
 let output;
