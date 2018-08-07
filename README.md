@@ -15,6 +15,7 @@ ___
 Language Features:
 * String();
 * "".charAt(x);
+* + operator;
 
 [TOP](#index)
 
@@ -32,6 +33,9 @@ ___
 //(String, 'see')
 ```
 
+charAt(x) Method takes a string and returns the char at index 'x'. 
+The '+' operator appends both strings together. 
+
 [TOP](#index)
 
 ___
@@ -39,6 +43,7 @@ ___
 ## Helpful Links
 * String(x): [w3schools](https://www.w3schools.com/jsref/jsref_string.asp)
 * "".charAt(x):  [alligator.io](https://alligator.io/js/charat-string-method/)
+* + operator: [w3schools](https://www.w3schools.com/js/js_operators.asp)
 
 [TOP](#index)
 
