@@ -1,4 +1,4 @@
-# Expansions
+# Expansions - charAt() 'see'
 
 This expression returns the index 2 char from a string and combines it with a string 'ee'.
 
