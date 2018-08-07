@@ -15,7 +15,7 @@ ___
 Language Features:
 * String();
 * "".charAt(x);
-* + operator;
+* '+' operator;
 
 [TOP](#index)
 
