@@ -43,7 +43,7 @@ ___
 ## Helpful Links
 * String(x): [w3schools](https://www.w3schools.com/jsref/jsref_string.asp)
 * "".charAt(x):  [alligator.io](https://alligator.io/js/charat-string-method/)
-* + operator: [w3schools](https://www.w3schools.com/js/js_operators.asp)
+* '+' operator: [w3schools](https://www.w3schools.com/js/js_operators.asp)
 
 [TOP](#index)
 
